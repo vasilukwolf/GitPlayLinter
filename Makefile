@@ -1,0 +1,2 @@
+lint:
+	./vendor/bin/phplint

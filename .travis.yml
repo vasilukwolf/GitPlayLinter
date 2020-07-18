@@ -3,4 +3,4 @@ php:
   - 7.2.24
 
 install: composer install --dev
-script: ./vendor/bin/phplint
+script: make lint
